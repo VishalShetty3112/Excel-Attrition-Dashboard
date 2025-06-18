@@ -1,14 +1,14 @@
 # Excel-Attrition-Dashboard
 
 # Introduction
-The objective of this dashboard is to analyze and understand the patterns and drivers behind employee attrition in our organization. The visualizations help HR teams and management to identify areas of concern, enabling data-driven retention strategies. This project presents an interactive Power BI Dashboard analyzing employee attrition data. It helps understand why employees leave, which departments or roles are most affected and highlights key trends based on salary, tenure, age, and education.
+The objective of this dashboard is to analyze and understand the patterns and drivers behind employee attrition in our organization. The visualizations help HR teams and management to identify areas of concern, enabling data-driven retention strategies. It represents an interactive Power BI Dashboard analyzing employee attrition data. It helps to  understand why employees leave, which departments or roles are most affected and highlights key trends based on salary, tenure, age, and education.
 
 # 🔍 Dashboard Highlights
-Total Employees: 1,257
-Total Attrition: 215 employees have left the organization.
-Attrition Rate: 17% of the workforce has left, which is relatively high.
-Average Years at Company: 5.2 years, indicating moderate employee tenure.
-Average Salary: ₹5.74K, which can be a contributing factor in attrition.
+* Total Employees: 1,257
+* Total Attrition: 215 employees have left the organization.
+* Attrition Rate: 17% of the workforce has left, which is relatively high.
+* Average Years at Company: 5.2 years, indicating moderate employee tenure.
+* Average Salary: ₹5.74K, which can be a contributing factor in attrition.
 
 # Dataset
 <a href="https://github.com/VishalShetty3112/Excel-Attrition-Dashboard/blob/main/Attrition%20Excel%20Project.xlsx">Attrition Dataset</a>
@@ -20,8 +20,8 @@ Assist HR professionals in data-driven decision-making
 Monitor department-wise and demographic-wise employee retention
 
 # 🛠 Tools Used
-Microsoft Excel (PivotTables, Charts, Slicers)
-Manual data analysis and visualization
+* Microsoft Excel (PivotTables, Charts, Slicers)
+* Manual data analysis and visualization
 
 # Project Insights
 * Attrition by Department
@@ -33,7 +33,7 @@ Manual data analysis and visualization
 * Years at Company vs Attrition
 
  # Dashboard View
-<a href="https://github.com/VishalShetty3112/Excel-Attrition-Dashboard/blob/main/Excel%20Attrition%20Dashboard%20Snapshot.png">Attrition Dashbaord</a>
+<a href="https://github.com/VishalShetty3112/Excel-Attrition-Dashboard/blob/main/Excel%20Attrition%20Dashboard%20Snapshot.png">Attrition Dashboard</a>
  
 # PROBLEMS THAT CAN BE OVERCOME 
 1. High Attrition in Early Tenure (0–1 Years at Company): Strengthening onboarding and mentoring programs, clear communication of job roles and growth paths, providing early performance feedback and support.
