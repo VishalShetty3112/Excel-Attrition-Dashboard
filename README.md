@@ -30,7 +30,7 @@ The dashboard is designed to: identify key drivers of attrition, assist HR profe
  # Dashboard View
 <a href="https://github.com/VishalShetty3112/Excel-Attrition-Dashboard/blob/main/Excel%20Attrition%20Dashboard%20Snapshot.png">Attrition Dashboard</a>
  
-# PROBLEMS THAT CAN BE OVERCOME 
+# Problems to be overcome
 * High Attrition in Early Tenure (0–1 Years at Company): Strengthening onboarding and mentoring programs, clear communication of job roles and growth paths, providing early performance feedback and support.
 *  High Attrition in Low Salary Slabs (Below ₹5K) : Revisiting compensation structure and ensuring market competitiveness.
 Offering performance-based incentives and bonuses, upskilling programs to help employees move to higher-paying roles.
