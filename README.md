@@ -24,11 +24,11 @@ The dashboard is designed to: identify key drivers of attrition, assist HR profe
 * Attrition by Age Group
 * Attrition by Salary Slab
 * Job Satisfaction vs Job Role
-* Attrition by Gender
+* Attrition by Gender 
 * Years at Company vs Attrition
 
  # Dashboard View
-<a href="https://github.com/VishalShetty3112/Excel-Attrition-Dashboard/blob/main/Excel%20Attrition%20Dashboard%20Snapshot.png">Attrition Dashboard</a>
+ ![Excel Attrition Dashboard Snapshot](https://github.com/user-attachments/assets/0c2de4dd-3a49-4188-9604-6c617cf36f5e)
  
 # Problems to be overcome
 * High Attrition in Early Tenure (0–1 Years at Company): Strengthening onboarding and mentoring programs, clear communication of job roles and growth paths, providing early performance feedback and support.
